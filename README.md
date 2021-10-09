@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtaherkhani
 - 👀 I’m interested in .net and creating weird experiences for my friends.
-- 🌱 I’m currently learning the intricacies of Blazor Server + HTML + CSS
+- 🌱 I’m currently learning the intricacies of Blazor Server + HTML + CSS + Javascript
 - 💞️ I’m not looking to collaborate on anything
 - 📫 You can reach me via taherkhanijosh@gmail.com
 
